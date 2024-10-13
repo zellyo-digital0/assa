@@ -1,4 +1,2 @@
-# ASSA
 
-Visit : https://faruq05.github.io/ASSA/
-# assa
+# https://zellyo-digital0.github.io/assa
